@@ -8,3 +8,4 @@ Please cite the following publication:
 "Noise reduction in hyperspectral imagery: Overview and application"
 B Rasti, P Scheunders, P Ghamisi, G Licciardi, J Chanussot
 Remote Sensing 10 (3), 482
+https://doi.org/10.3390/rs10030482
